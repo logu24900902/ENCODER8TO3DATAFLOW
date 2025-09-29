@@ -1,4 +1,4 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+# ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
